@@ -549,3 +549,12 @@ a.still {
     background-position: bottom 0% left 0%;
   }
 }
+
+.closed-banner {
+  margin: 20px 0 10px;
+  padding: 10px 15px;
+  border-radius: 5px;
+  text-align: center;
+  font-size: 14px;
+  line-height: 20px;
+}
